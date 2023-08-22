@@ -1,0 +1,9 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+			{"type": "Feature", "id": 1, "geometry": {"type": "Point", "coordinates": [55.688346, 37.394116]}, "properties": {"balloonContentHeader": "<font size=3><p>Московская область, Одинцовский городской округ, рабочий посёлок Заречье, заречная улица, 2</p>"}},
+			{"type": "Feature", "id": 2, "geometry": {"type": "Point", "coordinates": [55.644724, 37.530157]}, "properties": {"balloonContentHeader": "<font size=3><p>Москва, Метро Беляево, Профсоюзная 83 б</p><p>Водное поло</p>"}},
+			{"type": "Feature", "id": 3, "geometry": {"type": "Point", "coordinates": [55.748984, 37.498842]}, "properties": {"balloonContentHeader": "<font size=3><p>Москва, Метро Багратионовская, Большая Филёвская ул., 18</p>"}},
+			{"type": "Feature", "id": 4, "geometry": {"type": "Point", "coordinates": [55.781615, 37.665911]}, "properties": {"balloonContentHeader": "<font size=3><p>Москва, Метро Красносельская, Верхняя Красносельская ул., 19с2</p>"}}
+	]
+}
